@@ -187,7 +187,7 @@ A: No, she doesn't.
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>)
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - theacefes and Choo Choo for their immense help in understanding Valerie's character and related issues.
 - Playtesters: Rhaella, K'aeloree.
 - Russian translation: JamesMaxwell & Arcanecoast.ru.
