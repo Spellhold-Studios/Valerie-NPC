@@ -84,6 +84,9 @@ LANGUAGE ~Russian (Translation: JamesMaxwell & Arcanecoast.ru)~
          ~russian~
          ~valerie/lang/russian/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~valerie/lang/schinese/setup.tra~
 
 /* ================================================= *
  *  Valerie NPC Mod for BG1 Tutu, BGT BG:EE and EET  *
