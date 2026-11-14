@@ -7,8 +7,8 @@ APPEND ~action.ids~ ~113 ForceSpellRES(S:RES*,O:Target)~
 	UNLESS ~113 ForceSpellRES(S:RES\*,O:Target)~
 APPEND ~action.ids~ ~114 ForceSpellPointRES(S:RES*,P:Target)~
 	UNLESS ~114 ForceSpellPointRES(S:RES\*,P:Target)~
-APPEND ~action.ids~ ~147 RemoveSpellRES(S:Spell*)~
-	UNLESS ~147 RemoveSpellRES(S:Spell\*)~
+APPEND ~action.ids~ ~147 RemoveSpellRES(S:RES*)~
+	UNLESS ~147 RemoveSpellRES(S:RES\*)~
 APPEND ~action.ids~ ~160 ApplySpellRES(S:RES*,O:Target)~
 	UNLESS ~160 ApplySpellRES(S:RES\*,O:Target)~
 APPEND ~action.ids~ ~181 ReallyForceSpellRES(S:RES*,O:Target)~
